@@ -1,0 +1,3 @@
+- this repositry is all about backend of a DUKAAN(e-com shop) offering online service.
+- NodeJs along with ExpressJs is used.
+- npm is used as the package manager.
